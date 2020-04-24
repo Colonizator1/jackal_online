@@ -11,4 +11,9 @@ Open script editor end paste url of your new sheet whith game in the first const
 3. Move soldiers like image. If you want open card - choose them, and click "Open card" button
 
 Screen of game:
+<<<<<<< HEAD
 ![Drag Racing](screen.jpg)
+=======
+![Drag Racing](screen.jpg)
+
+>>>>>>> ba99d3c1065807013e20130904ccaa30a8cc90bb
